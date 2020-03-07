@@ -12,6 +12,7 @@ these are the defines that need to be set for each of their MCUs.
 
 
 | DEFINE    | CORE      | MCU                        |
+| --------- | --------- | ---------------------------|
 | __MM3N1   | Cortex-M3 | MM32F103 / MM32L3xx        |
 | __MM0N1   | Cortex-M0 | MM32F031x8, xB/MM32L0xx    |
 | __MM0P1   | Cortex-M0 | MM32SPIN2x                 |
